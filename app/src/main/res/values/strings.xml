@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeLimiter</string>
+    <string name="password_hint">Пароль</string>
+    <string name="lock_button_text">Залочить</string>
+    <string name="unlock_button_text">Разлочить</string>
+    <string name="accessibility_service_description">accessibility_service_description</string>
+    <string name="service_description">service_description</string>
+    <string name="device_admin_description">device_admin_description</string>
+    <string name="device_admin_label">device_admin_label</string>
+    <string name="add_device_admin_explanation">add_device_admin_explanation</string>
+</resources>
